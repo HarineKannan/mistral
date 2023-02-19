@@ -5,14 +5,14 @@ int main()
 int a,b;
 scanf("%d %d",&a,&b);
 addition(a,b);
-printf("Addition is found");
+printf("Addition is found\n");
 subtraction(a,b);
-printf("reverse of the string is found");
+printf("Subtraction is found\n");
 multiplication(a,b);
-printf("odd position of the string is found");
+printf("Multiplication is found\n");
 divison(a,b);
-printf("even position of the string is found");
+printf("Division is found\n");
 modulus(a,b);
-printf("string is printed");
+printf("Modulus is found\n");
 }
 
